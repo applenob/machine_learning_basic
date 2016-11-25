@@ -1,10 +1,10 @@
 # My Basic Machine Learning Implementation
 TODO
-
-1. MCMC
-2. LDA
-3. Max Entropy
-4. SVM
-5. EM
-6. HMM
-7. CRF
+Max Entropy
+拉格朗日对偶
+最优化方法
+LDA
+SVM
+EM
+HMM
+CRF
