@@ -1,4 +1,16 @@
-# My Basic Machine Learning Implementation
-TODO
-LDA
-CRF
+# 基础机器学习模型的原理介绍和python实现
+
+- [机器学习中的Monte-Carlo方法](https://github.com/applenob/machine_learning_basic/blob/master/1_MCMC.ipynb)
+- [LDA主题模型学习总结](https://github.com/applenob/machine_learning_basic/blob/master/2_LDA.ipynb)
+- [Logistic Regression 学习总结](https://github.com/applenob/machine_learning_basic/blob/master/3_Logistic_Regression.ipynb)
+- [隐马尔科夫模型（HMM）及其Python实现](https://github.com/applenob/machine_learning_basic/blob/master/5_HMM.ipynb)
+- [遗传算法原理和应用（python实现）](https://github.com/applenob/machine_learning_basic/blob/master/7_GA.ipynb)
+- [PCA](https://github.com/applenob/machine_learning_basic/blob/master/8_PCA.ipynb)
+- [如何优雅地手推SVM](https://github.com/applenob/machine_learning_basic/blob/master/9_SVM.ipynb)
+- [决策树基础](https://github.com/applenob/machine_learning_basic/blob/master/10_Tree_Basic.ipynb)
+- [决策树模型的各种Ensemble](https://github.com/applenob/machine_learning_basic/blob/master/11_Tree_Ensemble.ipynb)
+- [EM算法总结](https://github.com/applenob/machine_learning_basic/blob/master/12_EM.ipynb)
+- [图模型总结](https://github.com/applenob/machine_learning_basic/blob/master/13_graph.ipynb)
+- [迁移学习入门](https://github.com/applenob/machine_learning_basic/blob/master/14_tran_learn.ipynb)
+- [机器学习基础知识汇总](https://github.com/applenob/machine_learning_basic/blob/master/15_interview.ipynb)
+- [Max Entropy学习总结](https://github.com/applenob/machine_learning_basic/blob/master/16_max_entropy.ipynb)
